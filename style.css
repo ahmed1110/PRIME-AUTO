@@ -9,13 +9,3 @@
   body {
     font-family: "Rubik", serif;
   }
-.frontpc{
-    height: 70vh;
-    margin-top: 64px;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(./photo-1486262715619-67b85e0b08d3.avif);
-    background-size: cover;
-    background-position: center;
-    display: flex;
-    align-items: center;
-    padding: 0 1rem;
-}
